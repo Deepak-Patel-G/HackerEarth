@@ -1,0 +1,4 @@
+# ignore files that might be part of emacs
+*~
+~*~
+.DS_Store
